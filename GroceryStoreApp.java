@@ -85,10 +85,11 @@ public class GroceryStoreApp extends Application {
         return s.connect(connectionString, null);
     }
 
-//    void productsInfo() {
-//        // Creates and sets stage
-//        Stage stage = new Stage();
-//        stage.setTitle("Inventory Chart");
+    // This is the code for the chart, but i have no idea how to do it 
+    void productsInfo() {
+        // Creates and sets stage
+        Stage stage = new Stage();
+        stage.setTitle("Inventory Chart");
 //
 //        final CategoryAxis xAxis = new CategoryAxis();
 //        final NumberAxis yAxis = new NumberAxis();
