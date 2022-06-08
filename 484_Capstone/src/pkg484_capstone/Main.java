@@ -5,9 +5,7 @@
  */
 package pkg484_capstone;
 
-/**
- *
- * @author black
+/*testing
  */
 public class Main {
 
